@@ -1,5 +1,4 @@
 
+Stopwatch arduino lib for M5Stack and any other arduino
 
-0.1.03 has a breaking interface
-
-"# Stopwatch arduino lib for M5Stack and any other arduino" 
+Copied from https://playground.arduino.cc/Code/StopWatchClass and edited to work with M5Stack
